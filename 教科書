@@ -1,2 +1,16 @@
 !git clone.https://github.com/oreilly-japan/deep-learning-from-scratch
 ###輸入此指令 即可使用該網頁的套件
+
+ls
+
+cd deep-learning-from-scratch
+
+ls
+
+cd ch01
+
+ls
+
+!python hungry.py
+
+cat hungry.py
